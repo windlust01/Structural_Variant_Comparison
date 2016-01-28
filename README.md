@@ -10,7 +10,11 @@ https://github.com/NCBI-Hackathons/Structural_Variant_Comparison/wiki
 **Structural_Variant_Comparison workflow to Install on your local machine and Test:**
 https://github.com/NCBI-Hackathons/Structural_Variant_Comparison/wiki/Workflow-for-NCBI-Hackathon-~-Structural-Variant-Comparison:--Install-on-your-local-machine-and-Test
 
-**Expiration notice:**
+**Data files:**
+Data input for this project is available from dbVar FTP site (ftp://ftp.ncbi.nlm.nih.gov/pub/dbVar/data/Homo_sapiens/by_study/)
+Data out files will be made available soon on dbVar FTP site.  Look here for the announcement.
+
+**Expiration notice for Hackaton Participants**
 The following locations are temporary and will expire soon.
 
 gvf files for all variant types are in the server used for development:
